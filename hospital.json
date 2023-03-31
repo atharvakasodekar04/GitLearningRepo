@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Sahayadri hospital",
+    "address": "Trimurti chowk",
+    "city": "Nashik",
+    "contact": "+91 8459161477"
+  },
+  {
+    "id": 2,
+    "name": "Surya hospital",
+    "address": "Sharanpur Road",
+    "city": "Nashik",
+    "contact": "+91 8459161478"
+  },
+  {
+    "id": 3,
+    "name": "Ashwini hospital",
+    "address": "Bytco Point",
+    "city": "Nashik",
+    "contact": "+91 8459161479"
+  },
+  {
+    "id": 4,
+    "name": "Kulkarni hospital",
+    "address": "Gangapur Road",
+    "city": "Nashik",
+    "contact": "+91 8459161480"
+  },
+  {
+    "id": 5,
+    "name": "Apollo hospital",
+    "address": "Mumbai-Agra Road",
+    "city": "Nashik",
+    "contact": "+91 8459161481"
+  },
+  {
+    "id": 6,
+    "name": "Sai hospital",
+    "address": "Indira Nagar",
+    "city": "Nashik",
+    "contact": "+91 8459161482"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Kadam hospital",
+    "address": "Dwarka",
+    "city": "Nashik",
+    "contact": "+91 8459161483"
+  },
+  {
+    "id": 8,
+    "name": "Mangalmurti hospital",
+    "address": "Pathardi",
+    "city": "Nashik",
+    "contact": "+91 8459161484"
+  },
+  {
+    "id": 9,
+    "name": "Dhanwantari hospital",
+    "address": "Gangapur Road",
+    "city": "Nashik",
+    "contact": "+91 8459161485"
+  },
+  {
+    "id": 10,
+    "name": "Sai Krishna hospital",
+    "address": "Ashok Stambh",
+    "city": "Nashik",
+    "contact": "+91 8459161486"
+  },
+  {
+    "id": 11,
+    "name": "Seven Hills hospital",
+    "address": "Bhujbal Farm Road",
+    "city": "Mumbai",
+    "contact": "+91 8459161487"
+  },
+  {
+    "id": 12,
+    "name": "Jupiter hospital",
+    "address": "Thane West",
+    "city": "Mumbai",
+    "contact": "+91 8459161488"
+  },
+  {
+    "id": 13,
+    "name": "Breach Candy hospital",
+    "address": "Bhulabhai Desai Road",
+    "city": "Mumbai",
+    "contact": "+91 8459161489"
+  },
+  {
+    "id": 14,
+    "name": "Wockhardt hospital",
+    "address": "Mira Road East",
+    "city": "Mumbai",
+    "contact": "+91 8459161490"
+  },
+]
